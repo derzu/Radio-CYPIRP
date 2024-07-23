@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="clock15" size="10.000000 5.080000" />
+    <ImageTarget name="clock14" size="10.000000 5.247225" />
+    <ImageTarget name="clock13" size="10.000000 5.330000" />
+    <ImageTarget name="clock12" size="10.000000 5.510000" />
+    <ImageTarget name="clock11" size="10.000000 5.440000" />
+    <ImageTarget name="clock10" size="10.000000 5.450000" />
+    <ImageTarget name="radio4" size="10.000000 5.940000" />
+    <ImageTarget name="radio3" size="10.000000 6.640000" />
+    <ImageTarget name="radio2" size="10.000000 6.130000" />
+    <ImageTarget name="radio1" size="10.000000 5.530000" />
+    <ImageTarget name="radio0" size="10.000000 5.500000" />
+  </Tracking>
+</QCARConfig>
